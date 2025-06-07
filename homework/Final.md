@@ -8,7 +8,7 @@
 未完成
 
 ### mid
-使用ChatGpt撰寫
+使用ChatGpt撰寫  
 參考:
 https://tomohiroliu22.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%E7%B3%BB%E5%88%97-95-%E5%AD%A4%E7%AB%8B%E6%A3%AE%E6%9E%97-isolation-forest-7efa96213eec  
 https://medium.com/@AppliedDataScienceWeeklyNew/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E6%87%89%E7%94%A8%E5%88%86%E4%BA%AB-%E7%95%B0%E5%B8%B8%E6%AA%A2%E6%B8%AC-isolation-forest-ae40562ac4cf
